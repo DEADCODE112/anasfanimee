@@ -1,0 +1,25 @@
+.anas a{
+    font-size: xx-large;
+    background-color: rgb(255, 153, 0);
+    font-style: initial;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    text-transform: none;
+    text-indent: 0;
+    padding: 10px;
+    text-align: center;
+}
+.a{
+    background-color: rgb(14, 255, 239);
+    font-size: xx-large;
+    text-indent: 50%;
+    text-shadow: 100px;
+    text-transform: none;
+    border: 100px;
+    margin-right: 100px;
+}
+.a{
+    text-decoration: none;
+    text-transform: none;
+}
